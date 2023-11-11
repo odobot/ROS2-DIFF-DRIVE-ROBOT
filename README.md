@@ -1,5 +1,5 @@
 # ROS2-DIFF-DRIVE-ROBOT
-you need to install:
+you need to have installed:
 ->ros-xacro: (sudo apt install ros-<ros2-distro>-xacro)
 ->ros-joint-state-publisher: (sudo apt install ros-<ros2-distro>-joint-state-publisher-gui)
 ->gazebo-ros: (sudo apt install ros-<ros2-distro>-gazebo-ros-pkgs)
